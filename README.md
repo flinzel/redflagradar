@@ -1,6 +1,6 @@
-# RedFlag Radar Legal Pages
+# Red Flag Radar Check Legal Pages
 
-GitHub Pages-ready legal website for RedFlag Radar.
+GitHub Pages-ready legal website for Red Flag Radar Check. The installed app may use the shorter name Red Flag Radar.
 
 ## Files
 

@@ -1,6 +1,6 @@
-# Legal Review Notes, RedFlag Radar
+# Legal Review Notes, Red Flag Radar Check
 
-Last updated: 7 May 2026
+Last updated: 9 May 2026
 
 ## Confirmed by owner for this version
 
@@ -18,3 +18,7 @@ The pages intentionally state that exact prices, durations, trials, renewal and 
 ## Important legal caveat
 
 These files are optimized for App Store review readiness and German/EU awareness, but they are not a substitute for legal advice by a qualified lawyer.
+
+## Naming note
+
+The App Store listing name is Red Flag Radar Check. The installed app and user-facing in-app brand may use the shorter name Red Flag Radar. The legal pages intentionally connect both names.
